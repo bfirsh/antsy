@@ -43,4 +43,6 @@ func main() {
 
 - Handle stuff wider than the terminal
 - Layout helpers, link [ink](https://github.com/vadimdemedes/ink)'s
+- Example of how to do interactive things like a form (with helpers?)
+- Simplify output for logs/CI/non-TTYs
 - Tests (with a terminal emulator?)
