@@ -46,3 +46,4 @@ func main() {
 - Example of how to do interactive things like a form (with helpers?)
 - Simplify output for logs/CI/non-TTYs
 - Tests (with a terminal emulator?)
+- Stick stuff to bottom of screen, like apt's progress bar
